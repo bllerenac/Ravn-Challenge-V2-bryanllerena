@@ -1,0 +1,9 @@
+.character_card{
+  background-color: transparent;
+  padding: 16px;
+  height: 70px;
+  border: none;
+}
+.character_card > div > h2,h3{
+  margin: 0px;
+}

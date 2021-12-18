@@ -1,0 +1,27 @@
+.character_aside{
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+  max-height: calc(100vh - 52px);
+  overflow-y: auto;
+}
+.asider_divisor{
+  margin-left: 16px;
+  height: 0px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.data_error{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.0125em;
+  color: #EC5757;
+}

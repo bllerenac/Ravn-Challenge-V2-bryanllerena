@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ravn-Challenge-V2-bryanllerena/static/css/main.3978e446.css",
+    "main.js": "/Ravn-Challenge-V2-bryanllerena/static/js/main.292351b5.js",
+    "index.html": "/Ravn-Challenge-V2-bryanllerena/index.html",
+    "main.3978e446.css.map": "/Ravn-Challenge-V2-bryanllerena/static/css/main.3978e446.css.map",
+    "main.292351b5.js.map": "/Ravn-Challenge-V2-bryanllerena/static/js/main.292351b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3978e446.css",
+    "static/js/main.292351b5.js"
+  ]
+}
